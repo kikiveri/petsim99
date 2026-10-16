@@ -1,0 +1,1 @@
+--[[ generated @ discord.gg/25ms ]]return loadstring(buffer.tostring(game:GetService'EncodingService':DecompressBuffer(buffer.fromstring(base64.decode'KLUv/SA72QEAeyJlcnJvciI6Im9uIGxpbmUgMywgZXhwZWN0ZWQgYXNzaWdubWVudCBvciBmdW5jdGlvbiBjYWxsIn0='),Enum.CompressionAlgorithm.Zstd)))(...)
